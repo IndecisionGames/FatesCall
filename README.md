@@ -1,5 +1,9 @@
 # FatesCall
 
+## Pre-requisites
+- Unity Engine 4.23.1
+- A command line / terminal prompt capable of running the `git` command (i.e. Git Bash https://gitforwindows.org/) 
+
 ## Setup
 - Download and install the Git LFS extension from https://git-lfs.github.com/ which adds support for large binary files
 - Using a terminal that supports Git, navigate to the folder where you want your project folder to be created
